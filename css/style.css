@@ -370,25 +370,7 @@ section {
 }
 
 /* contact section*/
-.contact-input {
-  width: 100%;
-  font-size: 16px;
-  font-weight: 600;
-  padding: 16px;
-  border-radius: .5rem;
-  border: 1.5px solid var(--black-color);
-  outline: none;
-  margin-bottom: 32px;
-}
 
-.contact-button {
-  display: block;
-  border: none;
-  outline: none;
-  font-size: 16px;
-  cursor: pointer;
-  margin-left: auto;
-}
 
 /* footer section*/
 .footer {
